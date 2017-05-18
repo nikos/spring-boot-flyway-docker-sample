@@ -3,10 +3,9 @@
 Minimal Spring Boot Sample application with integration tests leveraging flyway DB migrations on a PostgreSQL running inside a Docker container.
 
 Requirements:
-
-    * Java 8
-    * Maven
-    * Docker
+  * Java 8
+  * Maven
+  * Docker
 
 Execute integration tests with, which will start a PostgreSQL database inside a docker container,
 making it available on a random high network port:
